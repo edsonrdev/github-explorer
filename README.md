@@ -37,9 +37,9 @@ I hope you enjoy using it as much as I enjoyed implementing it.
 
 ## Install
 
-First of all, you need to clone this repository, run the command `git clone {github-explorer}`.
+First of all, you need to clone this repository, run the command `git clone https://github.com/edsonrdev/github-explorer.git`.
 
-After that enter the newly created folder, with the command: `cd {github-explorer}`.
+After that enter the newly created folder, with the command: `cd github-explorer`.
 
 Then run the command `yarn` or `npm install`, to download all dependencies.
 
