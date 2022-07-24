@@ -1,6 +1,6 @@
-# GitHub Explorer | Explorando perfis do GitHub
+# GitHub Explorer | Exploring GitHub profiles
 
-<p>“Seu buscador de perfis e repositórios...”</blockquote>
+<p>“Your profile and repositories finder...”</blockquote>
 
 <p align="center">
 
@@ -47,7 +47,7 @@ After the dependencies download is complete, run the application with `yarn star
 
 Enjoy! 😊
 
-## 📝 Licença
+## 📝 License
 
 This project is under the MIT license. See the [LICENSE](LICENSE.md) file for more details.
 
