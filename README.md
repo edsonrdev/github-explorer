@@ -40,7 +40,7 @@ I hope you enjoy using it as much as I enjoyed implementing it.
 
 - Then run the command `yarn` or `npm install`, to download all dependencies.
 
-- After the dependencies download is complete, you will need to open the `github-explorer\src\services\api.js file and edit or replace the token it exports with your personal token.`
+- After the dependencies download is complete, you will need to open the `github-explorer\src\services\api.js` file and edit or replace the token it exports with your personal token.
 
 - Run the application with `yarn start` or `npm start`.
 
