@@ -1,9 +1,7 @@
-# GitHub Explorer | Exploring GitHub profiles
-
-<p>“Your profile and repositories finder...”</blockquote>
+<h1 align="center">GitHub Explorer | Exploring GitHub profiles</h1>
+<h3 align="center">“Your profile and repositories finder...”</h3>
 
 <p align="center">
-
   <a href="https://github.com/edsonrdev">
     <img alt="Made by edsonrdev" src="https://img.shields.io/badge/Made%20by-edsonrdev-brightgreen">
   </a>
@@ -25,7 +23,6 @@ I hope you enjoy using it as much as I enjoyed implementing it.
 
 ## Preview of application
 
-<img src="./preview/1.png" alt="Preview application">
 <img src="./preview/2.png" alt="Preview application">
 <img src="./preview/3.png" alt="Preview application">
 <img src="./preview/4.png" alt="Preview application">
