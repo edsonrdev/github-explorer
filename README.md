@@ -34,13 +34,15 @@ I hope you enjoy using it as much as I enjoyed implementing it.
 
 ## Install
 
-First of all, you need to clone this repository, run the command `git clone https://github.com/edsonrdev/github-explorer.git`.
+- First of all, you need to clone this repository, run the command `git clone https://github.com/edsonrdev/github-explorer.git`.
 
-After that enter the newly created folder, with the command: `cd github-explorer`.
+- After that enter the newly created folder, with the command: `cd github-explorer`.
 
-Then run the command `yarn` or `npm install`, to download all dependencies.
+- Then run the command `yarn` or `npm install`, to download all dependencies.
 
-After the dependencies download is complete, run the application with `yarn start` or `npm start`.
+- After the dependencies download is complete, you will need to open the `github-explorer\src\services\api.js file and edit or replace the token it exports with your personal token.`
+
+- Run the application with `yarn start` or `npm start`.
 
 Enjoy! 😊
 
